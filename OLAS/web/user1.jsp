@@ -8,7 +8,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <script type="text/javascript" language="javascript">///Script by Abhishek Jain***
+    <script type="text/javascript" language="javascript">
         function disableBackButton(){
         window.history.forward();
        }

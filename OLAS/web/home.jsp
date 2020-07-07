@@ -12,7 +12,7 @@
 <link rel="stylesheet" href="all.css">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <head> 
-    <script type="text/javascript" language="javascript">//
+    <script type="text/javascript" language="javascript">
         function disableBackButton(){
         window.history.forward();
         }

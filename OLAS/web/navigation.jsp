@@ -12,7 +12,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="all.css">
 <head>
-    <script type="text/javascript" language="javascript">///Script by Abhishek Jain***
+    <script type="text/javascript" language="javascript">
         function disableBackButton(){
             window.history.forward();
         }

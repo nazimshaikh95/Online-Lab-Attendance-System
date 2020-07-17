@@ -211,7 +211,7 @@
         <form action="subEnroll.jsp" method="post"> 
         <table id="t02" border='0' width='480px' cellpadding='10' cellspacing='5' align='center'>
 	<tr>
-            <td>Subject Already Registered...?????</td>>>>>>>>>>>>>>>>>>>>>>>>
+            <td>Subject Already Registered...?????</td>>>>>>>>>>>>>>>>>>>>>>>
         </tr>
         <tr><td align="center"><input type="submit" value="OK">
             </td></tr>
